@@ -36,3 +36,13 @@ int main() {
     cout << "main finish" << endl;
     return 0;
 }
+
+/*
+    constructor A
+    constructor A
+    ready return
+    destructor A, m_ptr:0x405030
+    destructor A, m_ptr:0x405010
+    destructor A, m_ptr:0x405030
+    main finish
+*/

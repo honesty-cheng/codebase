@@ -13,6 +13,7 @@ public:
     
 };
 
+//  编译优化了，不会调用拷贝构造函数
 Person get() {
     Person p;
     return p;
