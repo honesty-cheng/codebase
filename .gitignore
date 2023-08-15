@@ -1,0 +1,9 @@
+.vscode/
+
+# Ignore all 
+# * 
+
+# ... except some files
+!*.cpp
+!*.java
+!*.py
